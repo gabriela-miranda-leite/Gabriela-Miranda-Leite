@@ -27,12 +27,3 @@ Engenheira de Software com foco em **Mobile e Frontend**, apaixonada por **acess
 [![gymFlow](https://github-readme-stats.vercel.app/api/pin/?username=gabriela-miranda-leite&repo=gymFlow&theme=tokyonight&hide_border=true)](https://github.com/gabriela-miranda-leite/gymFlow)
 
 App mobile de academia construído com IA, do zero — React Native · TypeScript · Jest · Maestro · GitHub Actions
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriela-miranda-leite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-miranda-leite&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
